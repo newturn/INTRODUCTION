@@ -18,17 +18,18 @@
     - Анализ и моделирование бизнес-процессов автосервиса (GPSS)
 
 # INTRODUCTION
-> This is an introductory part devoted to a short description of everything that is in my repositories.
+> This is an introductory part, devoted to a short description of everything that is in my repositories.
 
-My projects cover the following areas:
-
+My projects design the following areas:
 - Software development
-    - Desktop application to improve reading speed (C ++)
-    - Synthesizer on microcontroller AT89S8253 (ASM)
-    - Control system for external measuring devices using a PC (C, ASM)
-    - Parser for pdf files with test breaking into paragraphs (Python)
-    - Methods for rapid assessment of health status based on ECG, according to the method of S.A. Dushanin. (Python)
+    - Desktop application for training reading speed (C ++)
+    - Synthesizer on the AT89S8253 microcontroller (ASM)
+    - Control system for external measuring devices (-B, -A - meters, ohmmeters, etc.) on the UNI-DS3 board using a PC (ASM, C, QtCreator)
+    - Parser for pdf files with dividing the test into paragraphs and forming a word document (Python)
+    - Methods for express health assessment based on ECG, according to the method of S.A. Dushanin (Python)
 - Analytics
     - Analysis of the market for used motorcycles on the Ebay platform (Panel data, GRETL, regression model)
+    - Analysis of the impact of the oil rate on the ruble exchange rate (Time data, GRETL, autoregressive model)
+    - A classifier for predicting a person's motivation to change the current job based on his answers and involvement in the educational process (Panel data, Weka)
 - Business process modeling
-    - Car Service Business Process Modeling and Analysis (GPSS)
+    - Analysis and modeling of car service business processes (GPSS)
