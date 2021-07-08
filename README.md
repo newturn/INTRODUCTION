@@ -17,22 +17,7 @@
 - Системная аналитика и моделирование бизнес-процессов
     - Анализ, моделирование и оптимизация бизнес-процессов автосервиса (GPSS) [ссылка](https://drive.google.com/file/d/1g22fQuiqyzPxhKyLiVSkCxCqztiCT8cV/view?usp=sharing)
 
-# INTRODUCTION
-> This is an introductory part, devoted to a short description of everything that is in my repositories.
 
-My projects design the following areas:
-- Software development
-    - Desktop application for training reading speed (C ++)
-    - Synthesizer on the AT89S8253 microcontroller (ASM)
-    - Control system for external measuring devices (-B, -A - meters, ohmmeters, etc.) on the UNI-DS3 board using a PC (ASM, C, QtCreator)
-    - Parser for pdf files with dividing the test into paragraphs and forming a word document (Python)
-    - Methods for express health assessment based on ECG, according to the method of S.A. Dushanin (Python)
-- Analytics
-    - Analysis of the market for used motorcycles on the Ebay platform (Panel data, GRETL, regression model)
-    - Analysis of the impact of the oil rate on the ruble exchange rate (Time data, GRETL, autoregressive model)
-    - A classifier for predicting a person's motivation to change the current job based on his answers and involvement in the educational process (Panel data, Weka)
-- Business process modeling
-    - Analysis and modeling of car service business processes (GPSS)
 
 
 [Шпаргалка](https://github.com/GnuriaN/format-README#%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%86%D0%B8%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5) для меня: "Как вести README.md" 
